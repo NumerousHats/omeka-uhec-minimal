@@ -1,6 +1,6 @@
         </article>
 
-        <footer role="contentinfo">
+<!--         <footer role="contentinfo">
 
             <nav id="bottom-nav">
                 <?php echo public_nav_main(); ?>
@@ -17,7 +17,7 @@
             <?php fire_plugin_hook('public_footer', array('view'=>$this)); ?>
 
         </footer>
-
+ -->
     </div><!-- end wrap -->
 
     <script>
